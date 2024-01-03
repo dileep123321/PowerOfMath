@@ -1,5 +1,4 @@
 # PowerOfMath
-# PowerOfMath
 # Basic Web Application with AWS Services
 This repository contains a tutorial and code samples for creating a simple yet functional web application using various AWS services. The tutorial guides you through the process of setting up a basic web app with serverless functionalities, API integration, and database connectivity.
 
@@ -37,4 +36,4 @@ Accounts recently created (within 24 hours) might have restricted access to nece
 
 ## Architecture
  
- ![WebApplication](![Alt Text](https://link.to.your/image.jpg))
+ <img width="1369" alt="webapplication" src="https://github.com/dileep123321/PowerOfMath/assets/106754609/ff8f8214-7d07-4383-b19f-af3032318dce">
